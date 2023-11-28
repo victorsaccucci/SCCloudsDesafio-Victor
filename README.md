@@ -1,6 +1,6 @@
 
 # Desafio SC Clouds
-### Este é o projeto de código-fonte para o desafio proposto pela SC Clouds como parte do processo de seleção para o estágio. O projeto contém implementações de duas funcionalidades: cálculo da sequência de Fibonacci e geração de números primos.
+### Projeto de código-fonte para o desafio proposto pela SC Clouds como parte do processo de seleção para o estágio. O projeto contém implementações de duas funcionalidades: cálculo da sequência de Fibonacci e geração de números primos.
 
 # Funcionalidades
 ### 1. Cálculo da Sequência de Fibonacci
